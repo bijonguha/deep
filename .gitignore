@@ -1,3 +1,8 @@
+#My additions
+##Models
+resnet50_coco_best_v2.0.1.h5
+yolo.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
